@@ -1,5 +1,5 @@
 let info_item = [{
-    name: 'Sản Phẩm 1',
+    name: 'Giày Thể Thao XSPORT Adidas V19',
     old_price: "",
 
     new_price: "1.000.000",
@@ -12,7 +12,7 @@ let info_item = [{
 },
 
 {
-    name: 'Sản Phẩm 2',
+    name: 'Giày Thể Thao XSPORT Nike Air Force 1 Full SF',
     old_price: "",
     new_price: "5.000.000",
     new_price_value: 50,
@@ -24,7 +24,7 @@ let info_item = [{
 },
 
 {
-    name: 'Sản Phẩm 3',
+    name: 'Giày Thể Thao XSPORT Adidas Alphabounce',
     old_price: "",
     new_price: "4.000.000",
     new_price_value: 40,
@@ -36,7 +36,7 @@ let info_item = [{
 },
 
 {
-    name: 'Sản Phẩm 4',
+    name: 'Giày Thể Thao XSPORT Adidas XPLR Rep',
     old_price: "",
     new_price: "3.000.000",
     new_price_value: 30,
@@ -47,7 +47,7 @@ let info_item = [{
 },
 
 {
-    name: 'Sản Phẩm 5',
+    name: 'Giày Thể Thao XSPORT Adidas Yeezy 700 V2 F1',
     old_price: "",
     new_price: "32.000.000",
     new_price_value: 320,
@@ -58,7 +58,7 @@ let info_item = [{
 },
 
 {
-    name: 'Sản Phẩm 6',
+    name: 'Giày Thể Thao XSPORT Beyond 2019',
     old_price: "",
     new_price: "9.000.000",
     new_price_value: 90,
@@ -69,7 +69,7 @@ let info_item = [{
 },
 
 {
-    name: 'Sản Phẩm 7',
+    name: 'Giày Thể Thao XSPORT Nike Air Jordan 1 F1',
     old_price: "",
     new_price: "71.000.000",
     new_price_value: 710,
@@ -79,7 +79,7 @@ let info_item = [{
 },
 
 {
-    name: 'Sản Phẩm 8',
+    name: 'Giày Thể Thao XSPORT Adidas Yeezy boost',
     old_price: "",
     new_price: "1.000.000",
     new_price_value: 10,
@@ -90,7 +90,7 @@ let info_item = [{
 },
 
 {
-    name: 'Sản Phẩm 9',
+    name: 'Giày Thể Thao XSPORT Gucci Sneaker Rhyton',
     old_price: "",
     new_price: "100.000",
     new_price_value: 1,
@@ -101,7 +101,7 @@ let info_item = [{
 },
 
 {
-    name: 'Sản Phẩm 10',
+    name: 'Giày Thể Thao XSPORT Nike Air Jordan 1 F1',
     old_price: "",
     new_price: "400.000",
     new_price_value: 4,
@@ -112,7 +112,7 @@ let info_item = [{
 },
 
 {
-    name: 'Sản Phẩm 11',
+    name: 'Giày Thể Thao XSPORT Nike Superstar A76',
     old_price: "",
     new_price: "4.000.000",
     new_price_value: 40,
@@ -123,7 +123,7 @@ let info_item = [{
 },
 
 {
-    name: 'Sản Phẩm 12',
+    name: 'Giày Thể Thao Adidas Superstar Trắng mũi sò SF',
     old_price: "",
     new_price: "1.500.000",
     new_price_value: 15,
