@@ -1,61 +1,61 @@
 let info_item = [{
-    name: 'Sản Phẩm 1',
+    name: ' Giày Thể Thao XSPORT S REP',
     old_price: "",
     new_price: "1.000.000",
     src: 'img/sản phẩm 1.jpg'
 },
 
 {
-    name: 'Sản Phẩm 2',
+    name: 'Giày Thể Thao Adidas',
     old_price: "",
     new_price: "5.000.000",
     src: 'img/sản phẩm 2.jpg'
 },
 
 {
-    name: 'Sản Phẩm 3',
+    name: 'Giày Thể Thao Vans Old Skool',
     old_price: "",
     new_price: "4.000.000",
     src: 'img/sản phẩm 3.jpg'
 },
 
 {
-    name: 'Sản Phẩm 4',
+    name: 'Giày Thể Thao XSPORT Yeezy',
     old_price: "",
     new_price: "3.000.000",
     src: 'img/sản phẩm 4.jpg'
 },
 
 {
-    name: 'Sản Phẩm 5',
+    name: 'Giày Thể Thao XSPORT 1098',
     old_price: "",
     new_price: "32.000.000",
     src: 'img/sản phẩm 5.jpg'
 },
 
 {
-    name: 'Sản Phẩm 6',
+    name: 'Giày Thể Thao Prophere 4',
     old_price: "",
     new_price: "9.000.000",
     src: 'img/sản phẩm 6.jpg'
 },
 
 {
-    name: 'Sản Phẩm 7',
+    name: 'Giày Thể Thao Nike Air Max 97',
     old_price: "",
-    new_price: "71.000.000",
+    new_price: "1.000.000",
     src: 'img/sản phẩm 7.jpg'
 },
 
 {
-    name: 'Sản Phẩm 8',
+    name: 'Giày Thể Thao Prophere Rep',
     old_price: "",
     new_price: "1.000.000",
     src: 'img/sản phẩm 8.jpg'
 },
 
 {
-    name: 'Sản Phẩm 9',
+    name: 'Giày Thể Thao Converse 1970',
     old_price: "",
     new_price: "100.000",
     data_newprice: "1-5",
@@ -65,7 +65,7 @@ let info_item = [{
 },
 
 {
-    name: 'Sản Phẩm 10',
+    name: 'Giày Thể Thao Puma Sneaker',
     old_price: "",
     new_price: "400.000",
     data_newprice: "1-5",
@@ -75,7 +75,7 @@ let info_item = [{
 },
 
 {
-    name: 'Sản Phẩm 11',
+    name: 'Giày Thể Thao XSPORT 1908',
     old_price: "",
     new_price: "4.000.000",
     data_newprice: "15-50",
@@ -85,7 +85,7 @@ let info_item = [{
 },
 
 {
-    name: 'Sản Phẩm 12',
+    name: 'Giày Thể Thao XSPORT 19178',
     old_price: "",
     new_price: "1.500.000",
     data_newprice: "5-15",
